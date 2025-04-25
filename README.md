@@ -36,7 +36,7 @@ The Books REST API is a simple web service for managing a collection of books. T
 - Node.js installed (version 14 or higher)
 - MongoDB installed or use MongoDB Atlas for a cloud database
 - A code editor such as [Visual Studio Code](https://code.visualstudio.com/)
-- Npm install cors express mongoose express dotenv 
+- Npm install cors express mongoose express dotenv jest nodemon
 
 ### Installation Steps
 
